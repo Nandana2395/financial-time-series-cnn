@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+yfinance
+scipy
+beautifulsoup4
+chardet
+charset-normalizer
